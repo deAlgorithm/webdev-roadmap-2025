@@ -126,11 +126,11 @@ A **daily checklist roadmap** for beginners learning the MERN stack. Use this re
 ---
 
 ## 🛠 Tools & Setup Before Oct 1
-- [ ] Install **VS Code** + extensions (Prettier, Live Server, ES7+ React Snippets)
-- [ ] Install **Git** & create GitHub account
-- [ ] Setup **Node.js + npm**
-- [ ] Create free **MongoDB Atlas** account
-- [ ] Sign up for **Netlify** & **Render/Heroku**
+- [X] Install **VS Code** + extensions (Prettier, Live Server, ES7+ React Snippets)
+- [X] Install **Git** & create GitHub account
+- [X] Setup **Node.js + npm**
+- [X] Create free **MongoDB Atlas** account
+- [X] Sign up for **Netlify** & **Render/Heroku**
 
 ---
 
